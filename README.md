@@ -61,4 +61,4 @@ May,170
 
 ## 📜 License
 
-Feel free to use and modify it.
+This project is open source and free to use.
