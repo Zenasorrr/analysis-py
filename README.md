@@ -61,5 +61,4 @@ May,170
 
 ## 📜 License
 
-This project is released under the MIT License. Feel free to use and
-modify it.
+Feel free to use and modify it.
